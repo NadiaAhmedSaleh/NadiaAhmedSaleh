@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nadia and I'm a front-end developer, from Cairo </p>
+<p align="left">My name is Nadia and I'm a front-end developer from Cairo. </p>
 
 ###
 
